@@ -21,10 +21,10 @@ A adjustable stop for the inception vise
 
 
 
-<img src="images/BOM.PNG" width="800" style="border-radius: 15px;">
+<img src="images/BOM.png" width="800" style="border-radius: 15px;">
 
 <img src="images/Inception%20Vise.PNG" width="500">  
 
 <img src="images/IS-004A.PNG" width="500">
 
-<img src="images/Inception Vise Stop.PNG" width="500" style="border-radius: 15px;">
+<img src="images/Inception%20Vise%20Stop.png" width="500" style="border-radius: 15px;">
