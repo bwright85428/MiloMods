@@ -8,13 +8,13 @@ Here are all of the parts that I have modified to be machined out of aluminum.
 # [Skirts](Skirts)
 
 [Front Skirt RH](Skirts/Front%20Skirt%20RH.STEP)
-<img src="images/Front%20Skirt%20LH.png" width="500">
+<img src="images/Front%20Skirt%20LH.PNG" width="500">
 
 [Front Skirt LH](Skirts/Front%20Skirt%20LH.STEP)
-<img src="images/Front%20Skirt%20RH.png" width="500">
+<img src="images/Front%20Skirt%20RH.PNG" width="500">
 
 [Skirt Brace Bracket](Skirts/Skirt%20Brace%20Bracket.STEP)
-<img src="images/Skirt%20Brace%20Bracket.png" width="500">
+<img src="images/Skirt%20Brace%20Bracket.PNG" width="500">
 
 
 ---
